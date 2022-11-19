@@ -1,0 +1,21 @@
+body{
+    background-image:url(bg1.jpg);
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas{
+    background-color: white;
+    border-style: ridge;
+    border-width: 2rem;
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+
+#Color{
+    margin-right: 3rem;
+}
